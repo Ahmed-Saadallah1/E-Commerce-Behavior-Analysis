@@ -56,13 +56,5 @@ The notebook covers 5 parts:
 - Matplotlib, Seaborn
 - Google Colab / Jupyter Notebook
 
-## Team
-
-| Name | Student ID |
-|------|-----------|
-| Ahmed Saadallah | 16008325 |
-| Hazem Ahmed | 16005924 |
-| Ahmed Dakroury | 16004521 |
-| Youssef Ahmed | 16009528 |
 
 **Course:** Introduction to Data Science — GIU, Spring 2026
